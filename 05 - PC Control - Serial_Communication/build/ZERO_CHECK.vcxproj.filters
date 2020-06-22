@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Thiago Souto\Desktop\MASTERS - ROBOTICS\MECHATRONICS\ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL\Serial_Communication\build\CMakeFiles\18a2f0d3fd82f46fe9c6f7253a9135cb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4E7E5F61-6E09-3DA3-BBEA-23F4C0DA7E1F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

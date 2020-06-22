@@ -1,0 +1,4 @@
+C:/Users/Thiago Souto/Desktop/MASTERS - ROBOTICS/MECHATRONICS/ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL/Serial_Communication/build/CMakeFiles/Serial_Communication.dir
+C:/Users/Thiago Souto/Desktop/MASTERS - ROBOTICS/MECHATRONICS/ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL/Serial_Communication/build/CMakeFiles/INSTALL.dir
+C:/Users/Thiago Souto/Desktop/MASTERS - ROBOTICS/MECHATRONICS/ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL/Serial_Communication/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Thiago Souto/Desktop/MASTERS - ROBOTICS/MECHATRONICS/ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL/Serial_Communication/build/CMakeFiles/ZERO_CHECK.dir

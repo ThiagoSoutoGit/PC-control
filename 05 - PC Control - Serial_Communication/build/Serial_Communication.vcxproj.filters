@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Thiago Souto\Desktop\MASTERS - ROBOTICS\MECHATRONICS\ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL\Serial_Communication\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Thiago Souto\Desktop\MASTERS - ROBOTICS\MECHATRONICS\ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL\Serial_Communication\main.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Thiago Souto\Desktop\MASTERS - ROBOTICS\MECHATRONICS\ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL\Serial_Communication\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D9A97AA6-9769-31C1-B627-B3AC85F9587F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8ED3871B-9327-34DE-B9BA-86F6A2355962}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

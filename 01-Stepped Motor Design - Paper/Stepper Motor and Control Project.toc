@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {I}INTRODUCTION}{3}{section.1}%
+\contentsline {section}{\numberline {II}Methodology}{3}{section.2}%
+\contentsline {subsection}{\numberline {\mbox {II-A}}Mechanical System}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {\mbox {II-B}}Electrical System}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {\mbox {II-B}1}Motor Driver}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {\mbox {II-B}2}Stepper Motor}{4}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {\mbox {II-B}3}Electronic system}{4}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {\mbox {II-B}4}Wiring}{4}{subsubsection.2.2.4}%
+\contentsline {subsection}{\numberline {\mbox {II-C}}Software}{5}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {\mbox {II-C}1}PC Controls}{5}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {\mbox {II-C}2}Micro-controller}{5}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {\mbox {II-C}3}Control Methodology}{5}{subsubsection.2.3.3}%
+\contentsline {section}{\numberline {III}Design Process}{5}{section.3}%
+\contentsline {subsection}{\numberline {\mbox {III-A}}Mechanical Simulation}{5}{subsection.3.1}%
+\contentsline {section}{\numberline {IV}Results}{6}{section.4}%
+\contentsline {section}{\numberline {V}Discussion and Conclusions}{7}{section.5}%
+\contentsline {section}{References}{8}{section*.3}%
+\contentsline {section}{Appendix}{9}{section*.4}%

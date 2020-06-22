@@ -1,0 +1,10 @@
+^C:\USERS\THIAGO SOUTO\DESKTOP\MASTERS - ROBOTICS\MECHATRONICS\ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL\SERIAL_COMMUNICATION\BUILD\CMAKEFILES\18A2F0D3FD82F46FE9C6F7253A9135CB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Thiago Souto/Desktop/MASTERS - ROBOTICS/MECHATRONICS/ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL/Serial_Communication" "-BC:/Users/Thiago Souto/Desktop/MASTERS - ROBOTICS/MECHATRONICS/ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL/Serial_Communication/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Thiago Souto/Desktop/MASTERS - ROBOTICS/MECHATRONICS/ASSIGNMENT 4 - STEPPER MOTOR AND CONTROL/Serial_Communication/build/Serial_Communication.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

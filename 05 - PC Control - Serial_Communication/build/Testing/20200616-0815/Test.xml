@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20200616-0815-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.17.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="MSI"
+	OSRelease=" Professional"
+	OSVersion=" (Build 18362)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="6"
+	NumberOfPhysicalCPU="3"
+	TotalVirtualMemory="27792"
+	TotalPhysicalMemory="16228"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2208"
+	>
+	<Testing>
+		<StartDateTime>Jun 16 20:15 New Zealand Standard Time</StartDateTime>
+		<StartTestTime>1592295313</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 16 20:15 New Zealand Standard Time</EndDateTime>
+		<EndTestTime>1592295313</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
